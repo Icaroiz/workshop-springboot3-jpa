@@ -4,7 +4,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.educandoweb.course.entities.User;
 
-public interface UserRespository extends JpaRepository<User, Long>{
+public interface UserRepository extends JpaRepository<User, Long>{
 
 }
 
