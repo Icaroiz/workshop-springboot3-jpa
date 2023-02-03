@@ -8,12 +8,10 @@ https://github.com/Icaroiz/workshop-springboot3-jpa
 Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update, Delete) desenvolvido com Java Spring Boot e utiliza o padrão JPA (Java Persistence API) para persistência de dados e MySQL para banco de dados.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 1]()
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://Icaroiz.github.io/Site/imagens/readme/r4-spring-jpa.png)
 
 # Tecnologias utilizadas
 ## Back end
