@@ -24,9 +24,8 @@ Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update
 - HTML / CSS 
 
 ## Implantação em produção
-- Back end: Java
-- Front end web: Netlify
-- Banco de dados: MySQL
+- Back end: Heroku
+- Banco de dados: Postgresql
 
 # Como executar o projeto
 
@@ -35,7 +34,7 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Icaroiz/workshop-springboot3-jpa.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -43,14 +42,6 @@ cd backend
 # executar o projeto
 ./mvnw spring-boot:run
 ```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/Icaroiz/workshop-springboot3-jpa.git
-
 
 # Autor
 
