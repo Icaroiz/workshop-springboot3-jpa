@@ -5,7 +5,7 @@
 
 https://github.com/Icaroiz/workshop-springboot3-jpa
 
-Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update, Delete) desenvolvido com Java Spring Boot e utiliza o padrão JPA (Java Persistence API) para persistência de dados e MySQL para banco de dados.
+Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update, Delete) desenvolvido com Java Spring Boot e utiliza o padrão JPA (Java Persistence API) para persistência de dados e PostgreeSQL para banco de dados.
 
 ## Layout web
 ![Web 1]()
@@ -19,9 +19,6 @@ Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update
 - Spring Boot
 - JPA / Hibernate
 - Maven
-
-## Front end
-- HTML / CSS 
 
 ## Implantação em produção
 - Back end: Heroku
